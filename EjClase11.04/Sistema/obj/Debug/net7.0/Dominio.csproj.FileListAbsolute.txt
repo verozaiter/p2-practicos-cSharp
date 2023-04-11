@@ -1,0 +1,12 @@
+E:\ORT\Programación 2\EjClase11.04\Sistema\bin\Debug\net7.0\Dominio.deps.json
+E:\ORT\Programación 2\EjClase11.04\Sistema\bin\Debug\net7.0\Dominio.dll
+E:\ORT\Programación 2\EjClase11.04\Sistema\bin\Debug\net7.0\Dominio.pdb
+E:\ORT\Programación 2\EjClase11.04\Sistema\obj\Debug\net7.0\Dominio.csproj.AssemblyReference.cache
+E:\ORT\Programación 2\EjClase11.04\Sistema\obj\Debug\net7.0\Dominio.GeneratedMSBuildEditorConfig.editorconfig
+E:\ORT\Programación 2\EjClase11.04\Sistema\obj\Debug\net7.0\Dominio.AssemblyInfoInputs.cache
+E:\ORT\Programación 2\EjClase11.04\Sistema\obj\Debug\net7.0\Dominio.AssemblyInfo.cs
+E:\ORT\Programación 2\EjClase11.04\Sistema\obj\Debug\net7.0\Dominio.csproj.CoreCompileInputs.cache
+E:\ORT\Programación 2\EjClase11.04\Sistema\obj\Debug\net7.0\Dominio.dll
+E:\ORT\Programación 2\EjClase11.04\Sistema\obj\Debug\net7.0\refint\Dominio.dll
+E:\ORT\Programación 2\EjClase11.04\Sistema\obj\Debug\net7.0\Dominio.pdb
+E:\ORT\Programación 2\EjClase11.04\Sistema\obj\Debug\net7.0\ref\Dominio.dll
